@@ -84,7 +84,7 @@
 		            <subscriptionId>79fafc06-4033-468c-aa33-9d5750db40bd</subscriptionId>
 		            <resourceGroup>peopledb-web</resourceGroup>
 		            <appName>peopledb-web</appName>
-		            <pricingTier>P1v2</pricingTier>
+		            <pricingTier>B1</pricingTier>
 		            <region>eastus</region>
 		            <appServicePlanName>ASP-peopledbweb-8e86</appServicePlanName>
 		            <appServicePlanResourceGroup>peopledb-web</appServicePlanResourceGroup>
